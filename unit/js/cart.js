@@ -1,3 +1,9 @@
+/**
+ * Sane_He practice
+ * date 2018-1-23
+ * mood  bad
+ * 
+ */
 var Vm = new Vue({
     el : "#app",
     data :{
